@@ -57,12 +57,12 @@
 				</textField>
 			</frame>
 			<image>
-				<reportElement x="2" y="0" width="109" height="112" uuid="877556b3-ef83-4fba-a369-f62647d16aef"/>
-				<imageExpression><![CDATA["C:\\Users\\bl250\\OneDrive\\Documentos\\COMPU VISUAL\\Proyecto\\src\\reportes\\logouta.jpg"]]></imageExpression>
+				<reportElement x="0" y="0" width="111" height="132" uuid="4998232b-01ce-4bb5-852c-f6bc9b3a3a93"/>
+				<imageExpression><![CDATA["C:\\Users\\ASUS\\OneDrive\\Documentos\\NetBeansProjects\\ProyectoVisual-1\\OneDrive\\Documentos\\COMPU VISUAL\\Proyecto\\src\\reportes\\logouta.jpg"]]></imageExpression>
 			</image>
 			<image>
-				<reportElement x="451" y="-1" width="102" height="133" uuid="a61433be-8936-4cbf-94b3-49dba1ebde4d"/>
-				<imageExpression><![CDATA["C:\\Users\\bl250\\OneDrive\\Documentos\\COMPU VISUAL\\Proyecto\\src\\reportes\\logofisei.jpg"]]></imageExpression>
+				<reportElement x="453" y="0" width="100" height="132" uuid="dc4f869b-4bbb-4855-9e43-b2e679663d64"/>
+				<imageExpression><![CDATA["C:\\Users\\ASUS\\OneDrive\\Documentos\\NetBeansProjects\\ProyectoVisual-1\\OneDrive\\Documentos\\COMPU VISUAL\\Proyecto\\src\\reportes\\logofisei.jpg"]]></imageExpression>
 			</image>
 		</band>
 	</title>
