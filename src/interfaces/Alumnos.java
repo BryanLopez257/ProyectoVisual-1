@@ -23,6 +23,7 @@ public class Alumnos extends javax.swing.JInternalFrame {
      * Creates new form Alumnos
      */
     public Alumnos() {
+        
         initComponents();
         configurarGeneroComboBox();
         mostrarDatos();

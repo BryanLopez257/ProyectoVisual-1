@@ -21,7 +21,7 @@ public class conexion {
         try {
             //servidor, usuario.contraseñaUsuario
             Class.forName("com.mysql.cj.jdbc.Driver");
-            conectar = DriverManager.getConnection("jdbc:mysql://localhost/utacuarto", "root", "");
+            conectar = DriverManager.getConnection("jdbc:mysql://localhost/utacuarto", "root", "@1850972280@");
             //JOptionPane.showMessageDialog(null, "Te conectaste");
         } catch (Exception ex) {
             JOptionPane.showMessageDialog(null, ex);
